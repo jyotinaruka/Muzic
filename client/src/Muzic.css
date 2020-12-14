@@ -1,0 +1,50 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#0B123F !important;
+}
+#root, .wrapper, .bg{
+    background-color:#0B123F !important;
+}
+
+.logoSize{
+    padding: 0 !important;
+    margin-left:-36px; 
+    animation: App-logo-spin infinite 500ms linear;  
+    
+}
+
+@keyframes App-logo-spin {
+  0%   {transform: rotate(0deg);}
+  25%  {transform: rotate(-5deg);}
+  50%  {transform: rotate(5deg);}
+  100% {transform: rotate(0deg);}
+}
+
+.logo:hover{
+    background-color: transparent !important;
+
+}
+
+.searchbar{
+    margin-bottom: 0 !important;
+}
+.searchbar .inline.fields {
+    margin-bottom: 0  !important;
+}
+
+.playerDivider {
+    margin-top: 100px;
+}
+.playerWrapper {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  text-align: center;
+  height: 80px;
+}
+
+            
