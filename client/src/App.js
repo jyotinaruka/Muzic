@@ -8,6 +8,7 @@ import Navbar from './component/Navbar';
 import { Segment } from 'semantic-ui-react'
 import NewReleases from './component/NewReleases';
 import FeaturedPlaylist from './component/FeaturedPlaylist';
+import HandleAuth from './component/HandleAuth';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <SearchPage path="/searchsong" />
           <NewReleases path="/newreleases" />
           <FeaturedPlaylist path="/featured" />
+          <HandleAuth path="/handleauth" />
         </Router>
       </Segment>
 
