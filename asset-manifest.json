@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Muzic/static/css/main.217b8376.chunk.css",
-    "main.js": "/Muzic/static/js/main.0ad61a15.chunk.js",
-    "main.js.map": "/Muzic/static/js/main.0ad61a15.chunk.js.map",
+    "main.js": "/Muzic/static/js/main.7ba84984.chunk.js",
+    "main.js.map": "/Muzic/static/js/main.7ba84984.chunk.js.map",
     "runtime-main.js": "/Muzic/static/js/runtime-main.1ec022d9.js",
     "runtime-main.js.map": "/Muzic/static/js/runtime-main.1ec022d9.js.map",
     "static/css/2.070e26b0.chunk.css": "/Muzic/static/css/2.070e26b0.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.070e26b0.chunk.css",
     "static/js/2.00292f54.chunk.js",
     "static/css/main.217b8376.chunk.css",
-    "static/js/main.0ad61a15.chunk.js"
+    "static/js/main.7ba84984.chunk.js"
   ]
 }
