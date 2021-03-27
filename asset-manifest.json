@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Muzic/static/css/main.217b8376.chunk.css",
+    "main.js": "/Muzic/static/js/main.0ad61a15.chunk.js",
+    "main.js.map": "/Muzic/static/js/main.0ad61a15.chunk.js.map",
+    "runtime-main.js": "/Muzic/static/js/runtime-main.1ec022d9.js",
+    "runtime-main.js.map": "/Muzic/static/js/runtime-main.1ec022d9.js.map",
+    "static/css/2.070e26b0.chunk.css": "/Muzic/static/css/2.070e26b0.chunk.css",
+    "static/js/2.00292f54.chunk.js": "/Muzic/static/js/2.00292f54.chunk.js",
+    "static/js/2.00292f54.chunk.js.map": "/Muzic/static/js/2.00292f54.chunk.js.map",
+    "static/js/3.95ee4785.chunk.js": "/Muzic/static/js/3.95ee4785.chunk.js",
+    "static/js/3.95ee4785.chunk.js.map": "/Muzic/static/js/3.95ee4785.chunk.js.map",
+    "index.html": "/Muzic/index.html",
+    "static/css/2.070e26b0.chunk.css.map": "/Muzic/static/css/2.070e26b0.chunk.css.map",
+    "static/css/main.217b8376.chunk.css.map": "/Muzic/static/css/main.217b8376.chunk.css.map",
+    "static/js/2.00292f54.chunk.js.LICENSE.txt": "/Muzic/static/js/2.00292f54.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Muzic/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/muzicLogo-small.f494740b.png": "/Muzic/static/media/muzicLogo-small.f494740b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec022d9.js",
+    "static/css/2.070e26b0.chunk.css",
+    "static/js/2.00292f54.chunk.js",
+    "static/css/main.217b8376.chunk.css",
+    "static/js/main.0ad61a15.chunk.js"
+  ]
+}
